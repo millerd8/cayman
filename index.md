@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Dynamic Light
+Dynamic Light 2:09 PM
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
